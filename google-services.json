@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "1009622369106",
+    "firebase_url": "https://gud-biz.firebaseio.com",
+    "project_id": "gud-biz",
+    "storage_bucket": "gud-biz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009622369106:android:0df1842314f21605",
+        "android_client_info": {
+          "package_name": "com.hubofwallet.gudbiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009622369106-g7p78l9oq94gu3prkl2gfkfenqrgndf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCucNagFGYvfOqWtV8SRjZC8fZ_0oBY1gU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
